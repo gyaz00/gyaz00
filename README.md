@@ -4,7 +4,7 @@
     <img src="https://cdn.discordapp.com/attachments/1193361388274454551/1230432187086798943/a_f1e56ebf6f7aa3ecc28c4d590decdc08.gif?ex=66334c45&is=6620d745&hm=7073a78584e6b8656a4a1760382fb57c1e1c718c525e818a2b55c208a90ae0ca&" />
 </h1>
 
-<h3 align="center">Creator of tools made in python ✝︎</h3>
+<h3 align="center">⏳ Creator of tools made in python ⏳</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">💀 Languages-Tools 💀</h2>
+<h2 align="center">⚙️ Languages-Tools ⚙️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" />

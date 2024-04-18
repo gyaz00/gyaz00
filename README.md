@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🐍 I'm creator of V1per
+ 🐍 I'm one of the creators and owners of V1per
  
   👹 I'm creator of gyazo cloner
 

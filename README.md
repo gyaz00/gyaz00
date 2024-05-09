@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://cdn.discordapp.com/attachments/1171615654273630208/1237166724436983849/2e485885-8095-4290-a0fd-372348bf06be.gif?ex=663aa8cc&is=6639574c&hm=d52f2d116c0188ced538e57b8d47f7a22eaf14a979ad6c10b9b3bfc91a995de2&"/>
+    <img src="https://media.giphy.com/media/1gRYkY7l0zZgHgwx0X/giphy.gif"/>
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>

@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="a_f1e56ebf6f7aa3ecc28c4d590decdc08"/>
+    <img src="![GH_crown_black](https://github.com/gyaz00/gyaz00/assets/156465561/5f5adad3-49ba-42f4-aa9e-7bdb0c039d6b)
+"/>
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>

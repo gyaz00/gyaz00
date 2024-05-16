@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/gyaz00/gyaz00/assets/156465561/5f5adad3-49ba-42f4-aa9e-7bdb0c039d6b"/>
+    <img src="https://github.com/gyaz00/gyaz00/assets/156465561/6e2202d1-9dd9-44b5-b4b3-3923d70c7502"/>
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>

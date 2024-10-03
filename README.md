@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="" alt="banner gif"/>
+    <img src="" />
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>

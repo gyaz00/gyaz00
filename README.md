@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/a43edc33-4341-42a7-8416-66ab72e6b8f4" alt="banner gif"/>
+    <img src="" alt="banner gif"/>
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>

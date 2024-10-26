@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/2kQKAJT.gif" alt="Mi GIF" />
+    <img src="https://i.imgur.com/2kQKAJT.gif"
 </h1>
 
 <h3 align="center">⏳ Creator of tools made in python ⏳</h3>
